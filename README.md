@@ -1,4 +1,4 @@
-# RflyPano: A Virtual UAV Localization Panoramic Dataset from RflySim
+# RflyPano: A Panoramic Benchmark for Ultra-low Altitude UAV Localization Powered by RflySim
 
 This repository provides:
 
