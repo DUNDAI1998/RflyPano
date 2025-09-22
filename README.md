@@ -133,17 +133,20 @@ You can use this dataset to directly test the stitching script or to verify resu
 
 ## 🚩 Custom Panorama UAV for Sim-to-Real  
 
----
-
 To assess the sim-to-real gap of the proposed dataset, we collect real-world panoramic images using an ultra-low-altitude UAV equipped with a four-fisheye camera configuration. The hardware platform is continuously optimized to narrow the gap between simulation and reality. Additional real-world scenes will be included in the benchmark upon acceptance.  
 
 ![UAV Hardware Example](assets/panoUAV.jpg)  
+
+🎥 Watch our real-flight demo:  
+[![UAV Flight Video](assets/video_thumbnail.jpg)]([https://www.youtube.com/watch?v=XXXXXXXX](https://www.youtube.com/watch?v=SE8qwFe-EA0))  
+*(click to watch on YouTube)*  
 
 Main onboard modules:  
 - **Jetson Orin NX** – onboard algorithm computing.  
 - **Multi-fisheye Camera Processor** – processes inputs from four synchronized fisheye cameras.  
 - **Flight Control Unit (FCU) with GPS** – provides navigation and localization.  
 - **Four Fisheye Cameras** – mounted around the UAV to achieve panoramic vision consistent with the proposed configuration.  
+
 
 ## ⚠️  Acknowledgements
 1. Scene001 ~ Scene003 of the dataset are default scenes in RflySim.
