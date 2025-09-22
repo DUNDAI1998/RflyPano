@@ -19,6 +19,23 @@ Feel free to explore and have fun!
 
 ---
 
+## 📷 Hardware Setup (Optional Reference)  
+
+To better illustrate the data acquisition process, we also provide an overview of our **custom-built quad-fisheye panoramic UAV** used for dataset collection in real-world experiments.  
+
+![UAV Hardware Example](assets/panoUAV.pdf)  
+*(replace with actual UAV photo)*  
+
+Main onboard modules:  
+- **Jetson Orin NX** – onboard AI computing.  
+- **Multi-fisheye Camera Processor** – handles four synchronized fisheye cameras.  
+- **Flight Control Unit (FCU) with GPS** – navigation and localization.  
+- **Four Fisheye Cameras** – mounted around the UAV for 360° vision.  
+---
+
+
+
+
 ## 📁 Dataset Structure
 
 The dataset is organized hierarchically and consists of two main folders:
