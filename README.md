@@ -138,8 +138,9 @@ To assess the sim-to-real gap of the proposed dataset, we collect real-world pan
 ![UAV Hardware Example](assets/panoUAV.jpg)  
 
 🎥 Watch our real-flight demo:  
-[![UAV Flight Video](assets/video_thumbnail.png)]([https://www.youtube.com/watch?v=XXXXXXXX](https://www.youtube.com/watch?v=SE8qwFe-EA0))  
-*(click to watch on YouTube)*  
+[![UAV Flight Video](assets/video_thumbnail.png)](https://www.youtube.com/watch?v=SE8qwFe-EA0)  
+*(click to watch on YouTube)*
+
 
 Main onboard modules:  
 - **Jetson Orin NX** – onboard algorithm computing.  
