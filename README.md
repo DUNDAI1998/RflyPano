@@ -25,7 +25,7 @@ Feel free to explore and have fun!
 
 To assess the sim-to-real gap of the proposed dataset, we collect real-world panoramic images using an ultra-low-altitude UAV equipped with a four-fisheye camera configuration. The hardware platform is continuously optimized to narrow the gap between simulation and reality. Additional real-world scenes will be included in the benchmark upon acceptance.  
 
-![UAV Hardware Example](assets/panoUAV.pdf)  
+![UAV Hardware Example](assets/panoUAV.jpg)  
 
 Main onboard modules:  
 - **Jetson Orin NX** – onboard algorithm computing.  
