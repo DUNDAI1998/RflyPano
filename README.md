@@ -19,7 +19,7 @@ Feel free to explore and have fun!
 
 
 
-## 🚩 Panorama UAV for Sim-to-Real  
+## 🚩 Custom Panorama UAV for Sim-to-Real  
 
 ---
 
