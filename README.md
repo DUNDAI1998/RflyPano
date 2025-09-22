@@ -23,7 +23,7 @@ Feel free to explore and have fun!
 
 To better illustrate the data acquisition process, we also provide an overview of our **custom-built quad-fisheye panoramic UAV** used for dataset collection in real-world experiments.  
 
-![UAV Hardware Example](assets/panoUAV.pdf)  
+![UAV Hardware Example](assets/panoUAV.png)  
 *(replace with actual UAV photo)*  
 
 Main onboard modules:  
