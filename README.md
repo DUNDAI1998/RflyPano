@@ -19,19 +19,19 @@ Feel free to explore and have fun!
 
 ---
 
-## 📷 Hardware Setup (Optional Reference)  
+## 🚩 Panorama UAV for Sim-to-Real  
 
-To better illustrate the data acquisition process, we also provide an overview of our **custom-built quad-fisheye panoramic UAV** used for dataset collection in real-world experiments.  
+To assess the sim-to-real gap of the proposed dataset, we collect real-world panoramic images using an ultra-low-altitude UAV equipped with a four-fisheye camera configuration. The hardware platform is continuously optimized to narrow the gap between simulation and reality. Additional real-world scenes will be included in the benchmark upon acceptance.  
 
 ![UAV Hardware Example](assets/panoUAV.png)  
 *(replace with actual UAV photo)*  
 
 Main onboard modules:  
-- **Jetson Orin NX** – onboard AI computing.  
-- **Multi-fisheye Camera Processor** – handles four synchronized fisheye cameras.  
-- **Flight Control Unit (FCU) with GPS** – navigation and localization.  
-- **Four Fisheye Cameras** – mounted around the UAV for 360° vision.  
----
+- **Jetson Orin NX** – onboard algorithm computing.  
+- **Multi-fisheye Camera Processor** – processes inputs from four synchronized fisheye cameras.  
+- **Flight Control Unit (FCU) with GPS** – provides navigation and localization.  
+- **Four Fisheye Cameras** – mounted around the UAV to achieve panoramic vision consistent with the proposed configuration.  
+
 
 
 
