@@ -13,7 +13,7 @@ The dataset and images are generated from a virtual environment using **RflySim 
 
 Below is an example of the stitched panoramic image from four fisheye inputs:
 
-![Panorama Example](assets/panorama_example.jpg)
+![Panorama Example](assets/cover_page.jpg)
 
 Feel free to explore and have fun!
 
