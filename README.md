@@ -139,16 +139,15 @@ To assess the sim-to-real gap of the proposed dataset, we collect real-world pan
 
 ![UAV Hardware Example](assets/panoUAV.jpg)  
 
-🎥 Watch our real-flight demo:  
-[![UAV Flight Video](assets/video_thumbnail.png)](https://www.youtube.com/watch?v=SE8qwFe-EA0)  
-*(click to watch on YouTube)*
-
-
 Main onboard modules:  
 - **Jetson Orin NX** – onboard algorithm computing.  
 - **Multi-fisheye Camera Processor** – processes inputs from four synchronized fisheye cameras.  
 - **Flight Control Unit (FCU) with GPS** – provides navigation and localization.  
-- **Four Fisheye Cameras** – mounted around the UAV to achieve panoramic vision consistent with the proposed configuration.  
+- **Four Fisheye Cameras** – mounted around the UAV to achieve panoramic vision consistent with the proposed configuration.
+
+🎥 Watch our real-flight demo:  
+[![UAV Flight Video](assets/video_thumbnail.png)](https://www.youtube.com/watch?v=SE8qwFe-EA0)  
+*(click to watch on YouTube)*
 
 
 ## ⚠️  Acknowledgements
