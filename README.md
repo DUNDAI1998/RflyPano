@@ -1,5 +1,7 @@
 # RflyPano: A Panoramic Benchmark for Ultra-low Altitude UAV Localization Powered by RflySim
 
+📢 **Accepted at AAAI 2026**
+
 This repository provides:
 
 - Panoramic datasets and fisheye datasets for UAV global localization.
