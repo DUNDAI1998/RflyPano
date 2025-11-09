@@ -1,7 +1,5 @@
 # RflyPano: A Panoramic Benchmark for Ultra-low Altitude UAV Localization Powered by RflySim
 
-📢 **Accepted at AAAI 2026**
-
 This repository provides:
 
 - Panoramic datasets and fisheye datasets for UAV global localization.
@@ -155,3 +153,6 @@ Main onboard modules:
 ## ⚠️  Acknowledgements
 1. Scene001 ~ Scene003 of the dataset are default scenes in RflySim.
 2. Other scenes are downloaded and cooked from [FAB](https://www.fab.com/zh-cn).
+
+## 🏁 Publication
+This work has been **accepted at AAAI 2026**.
