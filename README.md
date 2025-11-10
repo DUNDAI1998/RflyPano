@@ -144,7 +144,10 @@ You can use this dataset to directly test the stitching script or to verify resu
 
 ![Real World Panorama Example](assets/realworld_example.png)
 
-To assess the sim-to-real gap of the proposed dataset, we collect real-world panoramic images using an ultra-low-altitude fully custom UAV equipped with a four-fisheye camera configuration. The hardware platform is continuously optimized to narrow the gap between simulation and reality. Additional real-world scenes will be included in the benchmark upon acceptance.  
+To evaluate the sim-to-real gap, we collect real-world panoramic images using a fully custom ultra-low-altitude UAV equipped with four fisheye cameras.  
+The hardware platform is continuously optimized to reduce the gap between simulation and reality.  
+Further expansion and the final release of real-world data are in progress.
+
 
 ![UAV Hardware Example](assets/panoUAV.jpg)  
 
