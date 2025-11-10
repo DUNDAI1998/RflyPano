@@ -3,7 +3,7 @@
 
 ## 📰 News
 - **[2025-11]** 🎉 Our paper has been **accepted at AAAI 2026 Main Technical Track**!  
-- **[2025-11]** 📦 The **full dataset** is now available！
+- **[2025-11]** 📦 The **full synthetic dataset** is now available.
 
 This repository provides:
 
