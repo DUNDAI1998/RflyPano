@@ -2,7 +2,7 @@
 
 
 ## 📰 News
-- **[2025-11]** 🎉 Our paper has been **accepted at AAAI 2026 Main Technical Track**!  [**[Paper]**](assets/RflyPano_AAAI_CameraReady.pdf) |
+- **[2025-11]** 🎉 Our paper has been **accepted at AAAI 2026 Main Technical Track**!  [**[Paper]**](assets/RflyPano_AAAI_CameraReady.pdf)
 - **[2025-11]** 📦 The **full synthetic dataset** is now available.
 
 This repository provides:
