@@ -161,6 +161,10 @@ Main onboard modules:
 [![UAV Flight Video](assets/video_thumbnail.png)](https://www.youtube.com/watch?v=SE8qwFe-EA0)  
 *(click to watch on YouTube)*
 
+## ⚠️  Acknowledgements
+1. Scene001 ~ Scene003 of the dataset are default scenes in RflySim.
+2. Other scenes are downloaded and cooked from [FAB](https://www.fab.com/zh-cn).
+
 ## 📝 Citation
 If you find our work or dataset useful, please cite our AAAI 2026 paper:
 
@@ -178,6 +182,5 @@ If you find our work or dataset useful, please cite our AAAI 2026 paper:
   url       = {[https://ojs.aaai.org/index.php/AAAI/article/view/38884](https://ojs.aaai.org/index.php/AAAI/article/view/38884)}
 }
 
-## ⚠️  Acknowledgements
-1. Scene001 ~ Scene003 of the dataset are default scenes in RflySim.
-2. Other scenes are downloaded and cooked from [FAB](https://www.fab.com/zh-cn).
+
+
