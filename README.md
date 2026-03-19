@@ -169,7 +169,7 @@ Main onboard modules:
 If you find our work or dataset useful, please cite our AAAI 2026 paper:
 
 ```bibtex
-@inproceedings{dai2026rflypano,
+@inproceedings{2026rflypano,
   author    = {Dai, Dun and Lu, Ze and Dai, Xunhua and Quan, Quan},
   title     = {RflyPano: A Panoramic Benchmark for Ultra-low Altitude UAV Localization},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
