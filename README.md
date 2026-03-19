@@ -161,6 +161,22 @@ Main onboard modules:
 [![UAV Flight Video](assets/video_thumbnail.png)](https://www.youtube.com/watch?v=SE8qwFe-EA0)  
 *(click to watch on YouTube)*
 
+## 📝 Citation
+If you find our work or dataset useful, please cite our AAAI 2026 paper:
+
+```bibtex
+@inproceedings{dai2026rflypano,
+  author    = {Dai, Dun and Lu, Ze and Dai, Xunhua and Quan, Quan},
+  title     = {RflyPano: A Panoramic Benchmark for Ultra-low Altitude UAV Localization},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume    = {40},
+  number    = {22},
+  pages     = {18216--18224},
+  year      = {2026},
+  month     = {Mar.},
+  doi       = {10.1609/aaai.v40i22.38884},
+  url       = {[https://ojs.aaai.org/index.php/AAAI/article/view/38884](https://ojs.aaai.org/index.php/AAAI/article/view/38884)}
+}
 
 ## ⚠️  Acknowledgements
 1. Scene001 ~ Scene003 of the dataset are default scenes in RflySim.
