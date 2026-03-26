@@ -101,7 +101,7 @@ img_<camera_id><timestamp>.jpg label<timestamp>.txt panorama_<timestamp>.jpg
 
 The fisheye model used is based on a 4th-degree polynomial mapping from viewing angle (theta) to image radius:
 
-$r(theta) = k_0 \theta + k_1 \theta^3 + k_2 \theta^5 + k_3 \theta^7$
+$r(\theta) = k_0 \theta + k_1 \theta^3 + k_2 \theta^5 + k_3 \theta^7$
 
 🚀 Usage
 
